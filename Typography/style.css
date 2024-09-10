@@ -8,12 +8,14 @@ body {
     height: 100;
     padding-left: 500px;
     text-align: justify;
+    font-family:  'Times New Roman', Times, serif;
     
 }
 
 .data h2 {
     padding-right: 105px;
     padding-top: 8px;
+   
    
 }
 
